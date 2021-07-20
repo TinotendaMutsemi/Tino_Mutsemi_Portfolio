@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PROJECTS on PORTIFOLIO HOME</title>
-    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/</link>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/</link>
     <description>Recent content in PROJECTS on PORTIFOLIO HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cancer claims: A Deep Learning Perspective</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</link>
       <pubDate>Sun, 18 Jul 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</guid>
       <description>The aim of this project is to propose an effective neural network model to better predict end of life claim costs for terminal cancer patients in South Africa that improves on what traditional linear models can achieve for the task. Palliative care is a medical treatment approach that improves the quality of life of patients and their families facing the problems associated with life-threatening illness, through the prevention and relief of suffering by means of early identification and impeccable assess- ment and treatment of pain and other problems.</description>
     </item>
     
     <item>
       <title>Keep the Heart Unwrinkled</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_3/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</link>
       <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_3/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</guid>
       <description>This paper estimates the effect of old age pension on South African adult life satisfaction across four races, namely African, Coloured, Indian-Asian and White using the NIDS Wave 5 2017 dataset. Multiple linear regression was used to estimate the effect of explanatory variables on life satisfaction. The observed results are limited to the simplified techniques used in regression analysis. The paper finds receipt of pension to have an economically insignificant decrease in life satisfaction.</description>
     </item>
     
     <item>
       <title>A Package for the Analysis of Neural Networks</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</link>
       <pubDate>Tue, 13 Apr 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</guid>
       <description>Neural Networks provide a flexible basis for constructing non-linear models of real-world phenomena. Indeed, in recent times the model class has become an extremely popular
 tool amongst applied scientists owing both to its performance over a wide range of statistical tasks as well as the air of sentience that surrounds the internal functioning of the
 class—the result of well chosen metaphors for describing the basic mathematical operations that define it.</description>
@@ -38,20 +38,20 @@ class—the result of well chosen metaphors for describing the basic mathematica
     
     <item>
       <title>Investment Grade Rating</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_1/</link>
       <pubDate>Sun, 09 Feb 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_1/</guid>
       <description>The client of this project is an investment analyst who wants to automate the process of estimating and comparing credit risk between companies.
   The client wishes to create a program which: 1 allows the investment analyst to select a given number of companies from a financial records database 2 compute the investment ratings of these companies. 3 displays graphical trends of ratings over a period of time.</description>
     </item>
     
     <item>
       <title>Sensor Data, A Time Series Analysis</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_2/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_2/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_2/</guid>
       <description>This project aims to explore sensor data from industrial scraping machines.
 Sensor are frequently attached to industrial machines, with the aim of inferring or modelling the machine performance. [&amp;hellip;updating&amp;hellip;]
 link to GitHub Repository</description>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on PORTIFOLIO HOME</title>
-    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/about/</link>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/about/</link>
     <description>Recent content in ABOUT on PORTIFOLIO HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

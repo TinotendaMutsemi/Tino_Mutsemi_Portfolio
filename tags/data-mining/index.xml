@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data mining on PORTIFOLIO HOME</title>
-    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/data-mining/</link>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/data-mining/</link>
     <description>Recent content in data mining on PORTIFOLIO HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scraping Netflix movies</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_3/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_3/</link>
       <pubDate>Sat, 13 Mar 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_3/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_3/</guid>
       <description>What started as a British mockumentary series about office culture in 2001 has since spawned ten other variants across the world, including an Israeli version (2010-13), a Hindi version (2019-), and even a French Canadian variant (2006-2007). Of all these iterations (including the original), the American series has been the longest-running, spanning 201 episodes over nine seasons.
 In this notebook, we will take a look at a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time.</description>
     </item>

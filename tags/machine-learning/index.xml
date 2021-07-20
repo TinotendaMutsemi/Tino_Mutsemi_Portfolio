@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine learning on PORTIFOLIO HOME</title>
-    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/machine-learning/</link>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/machine-learning/</link>
     <description>Recent content in Machine learning on PORTIFOLIO HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cancer claims: A Deep Learning Perspective</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</link>
       <pubDate>Sun, 18 Jul 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</guid>
       <description>The aim of this project is to propose an effective neural network model to better predict end of life claim costs for terminal cancer patients in South Africa that improves on what traditional linear models can achieve for the task. Palliative care is a medical treatment approach that improves the quality of life of patients and their families facing the problems associated with life-threatening illness, through the prevention and relief of suffering by means of early identification and impeccable assess- ment and treatment of pain and other problems.</description>
     </item>
     
     <item>
       <title>A Package for the Analysis of Neural Networks</title>
-      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</link>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</link>
       <pubDate>Tue, 13 Apr 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</guid>
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</guid>
       <description>Neural Networks provide a flexible basis for constructing non-linear models of real-world phenomena. Indeed, in recent times the model class has become an extremely popular
 tool amongst applied scientists owing both to its performance over a wide range of statistical tasks as well as the air of sentience that surrounds the internal functioning of the
 class—the result of well chosen metaphors for describing the basic mathematical operations that define it.</description>
