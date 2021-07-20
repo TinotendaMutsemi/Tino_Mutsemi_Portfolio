@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World :) on PORTIFOLIO HOME</title>
+    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/</link>
+    <description>Recent content in Hello World :) on PORTIFOLIO HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cancer claims: A Deep Learning Perspective</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</link>
+      <pubDate>Sun, 18 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_4/</guid>
+      <description>The aim of this project is to propose an effective neural network model to better predict end of life claim costs for terminal cancer patients in South Africa that improves on what traditional linear models can achieve for the task. Palliative care is a medical treatment approach that improves the quality of life of patients and their families facing the problems associated with life-threatening illness, through the prevention and relief of suffering by means of early identification and impeccable assess- ment and treatment of pain and other problems.</description>
+    </item>
+    
+    <item>
+      <title>Keep the Heart Unwrinkled</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_3/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_3/</guid>
+      <description>This paper estimates the effect of old age pension on South African adult life satisfaction across four races, namely African, Coloured, Indian-Asian and White using the NIDS Wave 5 2017 dataset. Multiple linear regression was used to estimate the effect of explanatory variables on life satisfaction. The observed results are limited to the simplified techniques used in regression analysis. The paper finds receipt of pension to have an economically insignificant decrease in life satisfaction.</description>
+    </item>
+    
+    <item>
+      <title>A Package for the Analysis of Neural Networks</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</link>
+      <pubDate>Tue, 13 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</guid>
+      <description>Neural Networks provide a flexible basis for constructing non-linear models of real-world phenomena. Indeed, in recent times the model class has become an extremely popular
+tool amongst applied scientists owing both to its performance over a wide range of statistical tasks as well as the air of sentience that surrounds the internal functioning of the
+class—the result of well chosen metaphors for describing the basic mathematical operations that define it.</description>
+    </item>
+    
+    <item>
+      <title>Scraping Netflix movies</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_3/</link>
+      <pubDate>Sat, 13 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_3/</guid>
+      <description>What started as a British mockumentary series about office culture in 2001 has since spawned ten other variants across the world, including an Israeli version (2010-13), a Hindi version (2019-), and even a French Canadian variant (2006-2007). Of all these iterations (including the original), the American series has been the longest-running, spanning 201 episodes over nine seasons.
+In this notebook, we will take a look at a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time.</description>
+    </item>
+    
+    <item>
+      <title>Interactive plots with Boker</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_2/</link>
+      <pubDate>Sun, 21 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_2/</guid>
+      <description>Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations.
+ Interactive Bokeh widget   link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Mining Bitcoin data</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_4/</link>
+      <pubDate>Sun, 21 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_4/</guid>
+      <description>Since the launch of Bitcoin in 2008, hundreds of similar projects based on the blockchain technology have emerged. We call these cryptocurrencies (also coins or cryptos in the Internet slang). Some are extremely valuable nowadays, and others may have the potential to become extremely valuable in the future1. In fact, on the 6th of December of 2017, Bitcoin has a market capitalization above $200 billion.
+ Astonishing increase of Bitcoin markert cap   link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Dashboard apps with Plotly</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_5/</link>
+      <pubDate>Mon, 11 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_5/</guid>
+      <description>Plotly&amp;rsquo;s Python graphing library makes interactive, publication-quality graphs
+ MRI scan analysis   link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing using WordCloud</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_1/</link>
+      <pubDate>Fri, 08 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_1/</guid>
+      <description>What is WordCloud?
+Many times you might have seen a cloud filled with lots of words in different sizes, which represent the frequency or the importance of each word. This is called Tag Cloud or WordCloud. For this tutorial, you will learn how to create a WordCloud of your own in Python and customize it as you see fit. This tool will be quite handy for exploring text data and making your report more lively.</description>
+    </item>
+    
+    <item>
+      <title>Investment Grade Rating</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</link>
+      <pubDate>Sun, 09 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</guid>
+      <description>The client of this project is an investment analyst who wants to automate the process of estimating and comparing credit risk between companies.
+  The client wishes to create a program which: 1 allows the investment analyst to select a given number of companies from a financial records database 2 compute the investment ratings of these companies. 3 displays graphical trends of ratings over a period of time.</description>
+    </item>
+    
+    <item>
+      <title>CONTACT</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/contact/</guid>
+      <description>Email (mtstin007@myuct.ac.za) me or direct message me on these platforms.
+   Platform Link     LinkedIn: www.linkedin.com/in/tinotenda-mutsemi-2a107316b   Upwork: https://www.upwork.com/o/profiles/users/~016b639211c8bb377e/   Instagram: https://www.instagram.com/gentleman_jackbeast/    </description>
+    </item>
+    
+    <item>
+      <title>Sensor Data, A Time Series Analysis</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_2/</guid>
+      <description>This project aims to explore sensor data from industrial scraping machines.
+Sensor are frequently attached to industrial machines, with the aim of inferring or modelling the machine performance. [&amp;hellip;updating&amp;hellip;]
+link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

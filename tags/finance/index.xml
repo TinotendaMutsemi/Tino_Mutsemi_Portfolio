@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finance on PORTIFOLIO HOME</title>
+    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/finance/</link>
+    <description>Recent content in finance on PORTIFOLIO HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mining Bitcoin data</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_4/</link>
+      <pubDate>Sun, 21 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_4/</guid>
+      <description>Since the launch of Bitcoin in 2008, hundreds of similar projects based on the blockchain technology have emerged. We call these cryptocurrencies (also coins or cryptos in the Internet slang). Some are extremely valuable nowadays, and others may have the potential to become extremely valuable in the future1. In fact, on the 6th of December of 2017, Bitcoin has a market capitalization above $200 billion.
+ Astonishing increase of Bitcoin markert cap   link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Investment Grade Rating</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</link>
+      <pubDate>Sun, 09 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_1/</guid>
+      <description>The client of this project is an investment analyst who wants to automate the process of estimating and comparing credit risk between companies.
+  The client wishes to create a program which: 1 allows the investment analyst to select a given number of companies from a financial records database 2 compute the investment ratings of these companies. 3 displays graphical trends of ratings over a period of time.</description>
+    </item>
+    
+  </channel>
+</rss>

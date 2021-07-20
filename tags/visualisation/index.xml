@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualisation on PORTIFOLIO HOME</title>
+    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/visualisation/</link>
+    <description>Recent content in visualisation on PORTIFOLIO HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive plots with Boker</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_2/</link>
+      <pubDate>Sun, 21 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_2/</guid>
+      <description>Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations.
+ Interactive Bokeh widget   link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Dashboard apps with Plotly</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_5/</link>
+      <pubDate>Mon, 11 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_5/</guid>
+      <description>Plotly&amp;rsquo;s Python graphing library makes interactive, publication-quality graphs
+ MRI scan analysis   link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

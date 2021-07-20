@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on PORTIFOLIO HOME</title>
+    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/r/</link>
+    <description>Recent content in R on PORTIFOLIO HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Package for the Analysis of Neural Networks</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</link>
+      <pubDate>Tue, 13 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/post/project_5/</guid>
+      <description>Neural Networks provide a flexible basis for constructing non-linear models of real-world phenomena. Indeed, in recent times the model class has become an extremely popular
+tool amongst applied scientists owing both to its performance over a wide range of statistical tasks as well as the air of sentience that surrounds the internal functioning of the
+class—the result of well chosen metaphors for describing the basic mathematical operations that define it.</description>
+    </item>
+    
+  </channel>
+</rss>

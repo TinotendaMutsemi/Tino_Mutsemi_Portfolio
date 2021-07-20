@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on PORTIFOLIO HOME</title>
+    <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on PORTIFOLIO HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natural Language Processing using WordCloud</title>
+      <link>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_1/</link>
+      <pubDate>Fri, 08 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/TinotendaMutsemi/Tino_Mutsemi_Portfolio/skill/tutorial_1/</guid>
+      <description>What is WordCloud?
+Many times you might have seen a cloud filled with lots of words in different sizes, which represent the frequency or the importance of each word. This is called Tag Cloud or WordCloud. For this tutorial, you will learn how to create a WordCloud of your own in Python and customize it as you see fit. This tool will be quite handy for exploring text data and making your report more lively.</description>
+    </item>
+    
+  </channel>
+</rss>
