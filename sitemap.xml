@@ -2,48 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/deep-learning/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_5/</loc>
+    <lastmod>2021-06-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/machine-learning/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
+    <lastmod>2021-06-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/</loc>
-    <lastmod>2021-07-18T11:00:59-04:00</lastmod>
+    <lastmod>2021-06-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</loc>
-    <lastmod>2021-05-10T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/visualisation/</loc>
+    <lastmod>2021-06-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</loc>
-    <lastmod>2021-04-13T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_4/</loc>
+    <lastmod>2021-06-01T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/neural-networks/</loc>
-    <lastmod>2021-04-13T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/deep-learning/</loc>
+    <lastmod>2021-06-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-06-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/python/</loc>
+    <lastmod>2021-06-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/tensorflow/</loc>
+    <lastmod>2021-06-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/finance/</loc>
+    <lastmod>2021-05-21T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_4/</loc>
+    <lastmod>2021-05-21T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/cluster-analysis/</loc>
+    <lastmod>2021-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_1/</loc>
+    <lastmod>2021-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/numerical-analysis/</loc>
+    <lastmod>2021-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/r/</loc>
-    <lastmod>2021-04-13T11:00:59-04:00</lastmod>
+    <lastmod>2021-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,8 +92,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/finance/</loc>
-    <lastmod>2021-02-21T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/publications/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/stata/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -72,18 +112,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_4/</loc>
-    <lastmod>2021-02-21T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_5/</loc>
+    <lastmod>2021-02-13T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/visualisation/</loc>
-    <lastmod>2021-02-21T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_5/</loc>
-    <lastmod>2021-01-11T11:00:59-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/neural-networks/</loc>
+    <lastmod>2021-02-13T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -107,8 +142,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_1/</loc>
-    <lastmod>2020-02-09T10:58:08-04:00</lastmod>
+    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_2/</loc>
+    <lastmod>2020-11-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -121,10 +156,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

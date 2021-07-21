@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stata on PORTFOLIO</title>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/stata/</link>
+    <description>Recent content in stata on PORTFOLIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/stata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keep the Heart Unwrinkled</title>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</link>
+      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_3/</guid>
+      <description>This paper estimates the effect of old age pension on South African adult life satisfaction across four races, namely African, Coloured, Indian-Asian and White using the NIDS Wave 5 2017 dataset.
+  Multiple linear regression was used to estimate the effect of explanatory variables on life satisfaction. The observed results are limited to the simplified techniques used in regression analysis.
+  The paper finds receipt of pension to have an economically insignificant decrease in life satisfaction.</description>
+    </item>
+    
+  </channel>
+</rss>
