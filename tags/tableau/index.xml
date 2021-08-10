@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on PORTFOLIO</title>
+    <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/tableau/</link>
+    <description>Recent content in Tableau on PORTFOLIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who has been vaccinated?</title>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_0/</link>
+      <pubDate>Mon, 09 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_0/</guid>
+      <description>We will visualize population vaccinated percentages on a map and forecast when countries should be expected to have vaccinated all citizens.
+  The data will be sourced from the Oxford Martin School project of Covid-19 data collection. We use Microsoft SQL Server to query the global Covid-19 data and visualize the queries in Tableau.
+  Jump to Interactive Visualization    PROJECT LINKS
+Dataset: https://ourworldindata.org/covid-deaths</description>
+    </item>
+    
+  </channel>
+</rss>
