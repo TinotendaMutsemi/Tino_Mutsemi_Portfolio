@@ -6,7 +6,19 @@
     <description>Recent content in Hello World! on PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who has been vaccinated?</title>
+      <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_0/</link>
+      <pubDate>Mon, 09 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/post/project_0/</guid>
+      <description>We will visualize population vaccinated percentages on a map and forecast when countries should be expected to have vaccinated all citizens.
+  The data will be sourced from the Oxford Martin School project of Covid-19 data collection. We use Microsoft SQL Server to query the global Covid-19 data and visualize the queries in Tableau.
+  Jump to Interactive Visualization    PROJECT LINKS
+Dataset: https://ourworldindata.org/covid-deaths</description>
+    </item>
+    
     <item>
       <title>Dashboard apps with Plotly</title>
       <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/skill/tutorial_5/</link>
@@ -111,12 +123,12 @@ link to Project GitHub Repository</description>
     </item>
     
     <item>
-      <title>CONTACT</title>
+      <title>Contact</title>
       <link>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tinotendamutsemi.github.io/Tino_Mutsemi_Portfolio/contact/</guid>
-      <description>Email (mtstin007@myuct.ac.za) or direct message me on these platforms.
+      <description>Email (mutsemitinotenda@gmail.com) or direct message me on these platforms.
    Platform Link     LinkedIn: https://linkedin.com/in/tinotenda-mutsemi-2a107316b   Upwork: https://www.upwork.com/o/profiles/users/~016b639211c8bb377e/   Git: https://github.com/TinotendaMutsemi   Kaggle: https://www.kaggle.com/tinotendamutsemi   Instagram: https://www.instagram.com/tino_mutsemi/    </description>
     </item>
     
